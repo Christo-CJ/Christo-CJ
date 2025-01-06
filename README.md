@@ -18,6 +18,9 @@
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
 
 </div>
 
@@ -25,7 +28,7 @@
 
 ### 🌱 I’ve honed my skills in...
 - **Embedded Software development**  
-  Recently completed the **Embedded system course** from [Vector India]([(https://www.vectorindia.org/)]).
+  Recently completed the **Embedded system course** from [Vector India](https://www.vectorindia.org/).
 
 ---
 
