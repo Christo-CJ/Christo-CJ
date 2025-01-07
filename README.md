@@ -54,6 +54,10 @@
 <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/-ESP_IDF-000000?logo=esp&logoColor=white" alt="ESP-IDF" />
 <img src="https://img.shields.io/badge/-PIC-00448C?logo=chip&logoColor=white" alt="PIC Controllers" />
+  <img src="https://img.shields.io/badge/-Versal-4B2C40?logo=xilinx&logoColor=white" alt="Versal" />
+<img src="https://img.shields.io/badge/-Vitis-3F76E4?logo=xilinx&logoColor=white" alt="Vitis" />
+<img src="https://img.shields.io/badge/-Keil-004A7C?logo=arm&logoColor=white" alt="Keil" />
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" />
 </div>
 
 ---
