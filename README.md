@@ -50,6 +50,10 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-RaspberryPi-A22846?logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/-ESP_IDF-000000?logo=esp&logoColor=white" alt="ESP-IDF" />
+<img src="https://img.shields.io/badge/-PIC-00448C?logo=chip&logoColor=white" alt="PIC Controllers" />
 </div>
 
 ---
