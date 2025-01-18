@@ -57,14 +57,21 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-ARM-005F2F?logo=arm&logoColor=white" alt="ARM" />
   <img src="https://img.shields.io/badge/-RaspberryPi-A22846?logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/-ESP_IDF-000000?logo=esp&logoColor=white" alt="ESP-IDF" />
+  <img src="https://img.shields.io/badge/-LPC%20Controllers-006AB6?logo=nxp&logoColor=white" alt="LPC Controllers" />
 <img src="https://img.shields.io/badge/-PIC-00448C?logo=chip&logoColor=white" alt="PIC Controllers" />
+  <img src="https://img.shields.io/badge/RTOS-000000?logo=linux&logoColor=white" alt="RTOS" />
   <img src="https://img.shields.io/badge/-Versal-4B2C40?logo=xilinx&logoColor=white" alt="Versal" />
 <img src="https://img.shields.io/badge/-Vitis-3F76E4?logo=xilinx&logoColor=white" alt="Vitis" />
 <img src="https://img.shields.io/badge/-Keil-004A7C?logo=arm&logoColor=white" alt="Keil" />
-<img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Proteus-00B5E2?logo=appveyor&logoColor=white" alt="Proteus" />
+<img src="https://img.shields.io/badge/-MPLAB-005F8C?logo=microchip&logoColor=white" alt="MPLAB" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/-Simulink-005C6B?logo=mathworks&logoColor=white" alt="Simulink" />
+  
 </div>
 
 ---
