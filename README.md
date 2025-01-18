@@ -23,7 +23,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
 
 </div>
+---
 
+### 🌟 I'have my Bachelor of Technology degree in...  
+- **Electronics and Communication Engineering**  
+  Started my Journey in Engineering 2018 and succesfully completed in 2022 from [APJ Abdul Kalam Technological University](https://ktu.edu.in/)
+  Enjoyed,Learned,Build,strengthen myself.
+  Had excellent Curriculum and experience ups, downs and how to cope upon with them.
+--- 
 ---
 
 ### 🌱 I’ve honed my skills in...
