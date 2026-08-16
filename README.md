@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hello, I'm Christo Jeeson</h1>
  
-  <h3>Embedded Software Engineer | C Developer </h3>
+  <h3>Embedded Software Engineer | C Developer | Device Driver | Bootloaders </h3>
 </div>
 
 ---
